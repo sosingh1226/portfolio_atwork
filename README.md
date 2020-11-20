@@ -1,115 +1,110 @@
 RESPONSIVE PORTFOLIO:
 
 * The URLs of the deployed applications: 
-https://sosingh1226.github.io/02_ResponsivePortfolio/
-https://sosingh1226.github.io/02_ResponsivePortfolio/portfolio.html
-https://sosingh1226.github.io/02_ResponsivePortfolio/contact.html
-https://sosingh1226.github.io/02_ResponsivePortfolio/submit.html
+https://sosingh1226.github.io/portfolio_atwork/
 
 
-* The URLs of the GitHub repositories: https://github.com/sosingh1226/02_ResponsivePortfolio
+* The URLs of the GitHub repositories: https://github.com/sosingh1226/portfolio_atwork
 
 
-The requirement of this project covered all necessary topics and features those are important in Bootstrap. Definitely required a lot of GooleFi realizing there could be multiple solutions to one problem.
+On completion of my first project with a group of 4, it's time to update my portfolio in order to showcase my work.
 
-I felt this expercise was fun and very rewarding once you get to see the results especially when I tried using my final web link on different devices (laptop, phone and ipad)
+There have been Cards updated with the screen shot of the my top recent projects along with the deployed link and gitHub link.
 
-Challenges: Navbar Hamburger dorpdown was a challenge for me. Another point of struggle was wrapping text around the image within a container (About/ Index Page).
-
-UPDATE: Yoo Hoo!! Finally found a way to wrap text around the image!!
-
-Lots to learn!
+Portfolio-At-Work!
 
 
 
 
 
 
-INSTRUCTIONS BELOW:
+# Career Connection
 
-# Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
+## Career Connection
 
-Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application. 
+![Career Services logo](./assets/cs_logo.png)
 
+Up until now, you've written code and developed applications that solidified your skills as front-end developers. But now you're jumping into Node.js and getting your first taste of back-end development!
 
-## Directions
+By now you should have a pretty good idea about the differences between front-end, back-end, and full-stack development. But just to be sure, let's look at a few job descriptions to clarify. 
 
-First, you will use the Bootstrap CSS Framework to create a mobile responsive portfolio. How do you deliver this? Here are some guidelines:
+#### Front-End Developer
 
-* Create the following files files: `index.html`, `portfolio.html` and `contact.html`.
+A front-end developer is a web developer or engineer that writes code for the client side of a website or application&mdash;in other words, the part of the application that people see and use. They link together the two worlds of design and technology and spend much of their time writing HTML, JavaScript, or CSS to create user experiences.
 
-* Using Bootstrap, develop your portfolio site with the following items:
+#### Back-End Developer
 
-   * A navbar
+Almost every web application users interact with is powered by server-side code. Back-end developers are responsible for this server-side code, writing API endpoints and interacting with information stored in the database. It's important for back-end developers to be able to interact with the product stakeholders and translate their business needs into technical requirements. Back-end developers typically use technologies like Node.js, Java, Python, MySQL, and MongoDB.
 
-   * A responsive layout
+#### Full-Stack Web Developer
 
-   * Responsive images
+Even though we can define what front-end and back-end developers do, this line isn't always clear in practice. Front-end developers often have to learn back-end skills, and vice versa&mdash;particularly in smaller companies. A full-stack developer can work across the entire stack of technologies used in an application.
 
-* The Bootstrap portfolio should minimize the use of media queries.
+### Looking to the Future
 
-* Screenshots are provided as a reference in the `Assets/Images` folder. Your app does not need to be _exactly_ like the images. Use Bootstrap to create a similar, responsive layout.
+Coding across the entire stack is a valuable skill that will make you a more attractive candidate compared to someone who can’t. As such, it is important that you market yourself in a way that emphasizes your ability to navigate between front-end and back-end development environments.
 
-### Hints
+#### Step #1: Add “Full-Stack Web Developer” to Your Resume, LinkedIn, and Portfolio
 
-* Use Bootstrap's grid system (containers, rows, and columns).
+If you haven't already done so, make sure that your resume, LinkedIn profile, and portfolio all include the tagline “Full-Stack Web Developer.” A good place to include this is at the beginning of your brand statement, like in the following examples:
 
-* On an `xs` screen, content should take up the entire screen. On `sm` and larger screens, you should have some margins on the left and right sides of the screen. Check out various sites on your mobile device vs. your computer to see examples of these differences.
+* I am a full-stack web developer looking for new opportunities in...
 
-* Use an HTML validation service to ensure that each page has valid HTML.
+* Dynamic full-stack web developer with expertise in...
 
-### Minimum Requirements
+#### Step #2: Add Project #1 to Your Resume, LinkedIn, and Portfolio
 
-* Functional, deployed application
+It's also important to showcase the projects you've completed as you learn to code. Last week, you finished up the first project! Congratulations! Now let's put that project to work.
 
-* GitHub repository with README describing the project
+First, ensure that your project is deployed and can be accessed without errors. Then go ahead and add it in the following places:
 
-* Navbar must be consistent on each page.
+**Your Resume**
 
-* Navbar on each page must contain links to Home/About, Contact, and Portfolio pages.
+Add the project under Projects or Applications. List the name of the project, a description, your role, and the URL, like in the following example:
 
-* All links must work.
+> TimeHub
+> 
+> * A work-efficiency tracker made for organizations with routine daily tasks. Presents employees with an interface that displays tasks and tracks the time done for each. Each task completion time is charted into a bar graph with the manager’s expected time, and that is dynamically emailed to the manager.
+>
+> * Lead developer of a group of three
+>
+> * https://time-hub.herokuapp.com/
 
-* Must use semantic html.
+**LinkedIn**
 
-* Each page must have valid and correct HTML. (use a validation service)
+Go to your LinkedIn profile and click "Add profile section," then click Accomplishments and Projects, as shown in the following image:
 
-* Must contain your personalized information. (bio, name, images, links to social media, etc.)
+![On LinkedIn, the "Add profile section" button reveals a drop-down menu including Accomplishments.](./assets/linkedin_project.png)
 
-* Must properly utilize Bootstrap components and grid system.
+Fill out each of the relevant fields, and add screenshots where possible to best showcase your project to your LinkedIn network. 
 
-### Bonus
+**Portfolio**
 
-* Using Bootstrap, make a sticky footer and use sub-rows and sub-columns on your portfolio site (**Hint:** Check out the Bootstrap documentation).
+The Projects section of your portfolio should make it easy for prospective employers to see what you've been working on. Separate each project into an individual section or card, and provide links to both the code and the live site. Here's an example:
 
-## Commit Early and Often
+![A portfolio page features three cards displaying various projects and descriptions.](./assets/portfolio.png)
 
-One of the most important skills to master as a web developer is version control. Building the habit of committing via Git is important for two reasons:
+#### Step #3: Submit Portfolio Link on Bootcamp Spot
 
-* Your commit history is a signal to employers that you are actively working on projects and learning new skills.
+Last but not least, submit your portfolio on Bootcamp Spot! Once you do this, you are one step closer to being marked as employer-ready. When this happens, a number of Career Services resources will open up to you, such as employer networking events and webinars, online interactive workshops, and more!
 
-* Your commit history allows you to revert your codebase in the event that you need to return to a previous state.
+### Technical Interview Preparation
 
-Follow these guidelines for committing:
+Many companies use algorithm questions during the technical portion of their review process. You should answer each of these questions so that you go into an interview or promotion discussion confident in your ability to handle some of the most common questions. Even if you’re freelancing or growing your own business, these questions are helpful checks on your knowledge of this week’s material.
 
-* Make single-purpose commits for related changes to ensure a clean, manageable history. If you are fixing two issues, make two commits.
+Please refer to the class repository to find the following algorithms:
 
-* Write descriptive, meaningful commit messages so that you and anyone else looking at your repository can easily understand its history.
+* Coding Algorithm #1: Character Count
 
-* Don't commit half-done work, for the sake of your collaborators (and your future self!).
+* Coding Algorithm #2: Product of Largest Two
 
-* Test your application before you commit to ensure functionality at every step in the development process.
+* Coding Algorithm #3: Camel Case
 
-We would like you to have well over 200 commits by graduation, so commit early and often!
+### Career Services Events 
 
-## Submission on BCS
+![Career Services Online Events logo](./assets/online-events.png)
 
-You are required to submit the following:
+If you're interested in hearing more about the technical interviewing process and practicing algorithms in a mock interview setting, check out our [upcoming workshops!](https://careerservicesonlineevents.splashthat.com/)
 
-* The URLs of the deployed applications
-
-* The URLs of the GitHub repositories
-
-- - -
-
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+---
+© 2020 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
