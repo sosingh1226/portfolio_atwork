@@ -15,14 +15,16 @@ Portfolio-At-Work!
 
 
 
+![AboutMe](Assets/Images/Screenshots/aboutme.png)
 
+![PortfolioScreenShot](Assets/Images/Screenshots/portfolio.png)
 
 
 # Career Connection
 
 ## Career Connection
 
-![Career Services logo](./assets/cs_logo.png)
+![Career Services logo](Assets/Images/cs_logo.png) 
 
 Up until now, you've written code and developed applications that solidified your skills as front-end developers. But now you're jumping into Node.js and getting your first taste of back-end development!
 
@@ -74,7 +76,7 @@ Add the project under Projects or Applications. List the name of the project, a 
 
 Go to your LinkedIn profile and click "Add profile section," then click Accomplishments and Projects, as shown in the following image:
 
-![On LinkedIn, the "Add profile section" button reveals a drop-down menu including Accomplishments.](./assets/linkedin_project.png)
+![On LinkedIn, the "Add profile section" button reveals a drop-down menu including Accomplishments.](Assets/Images/linkedin_project.png)
 
 Fill out each of the relevant fields, and add screenshots where possible to best showcase your project to your LinkedIn network. 
 
@@ -82,7 +84,7 @@ Fill out each of the relevant fields, and add screenshots where possible to best
 
 The Projects section of your portfolio should make it easy for prospective employers to see what you've been working on. Separate each project into an individual section or card, and provide links to both the code and the live site. Here's an example:
 
-![A portfolio page features three cards displaying various projects and descriptions.](./assets/portfolio.png)
+![A portfolio page features three cards displaying various projects and descriptions.](Assets/Images/portfolio.png)
 
 #### Step #3: Submit Portfolio Link on Bootcamp Spot
 
@@ -102,7 +104,7 @@ Please refer to the class repository to find the following algorithms:
 
 ### Career Services Events 
 
-![Career Services Online Events logo](./assets/online-events.png)
+![Career Services Online Events logo](Assets/Images/online-events.png)
 
 If you're interested in hearing more about the technical interviewing process and practicing algorithms in a mock interview setting, check out our [upcoming workshops!](https://careerservicesonlineevents.splashthat.com/)
 
