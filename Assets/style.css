@@ -1,0 +1,16 @@
+body  {
+    background-image: url("https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701375136.jpg");
+    /* background-color: #cccccc; */
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: palegoldenrod;
+    color: darkred;
+    text-align: center;
+    font-family: 'Sacramento', cursive, 'Amatic SC', cursive;
+    font-size: 30px;
+}
