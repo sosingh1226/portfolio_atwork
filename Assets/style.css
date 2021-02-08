@@ -3,14 +3,25 @@ body  {
     /* background-color: #cccccc; */
 }
 
-.footer {
+.btn-primary {
+    color: #FFC108;
+    background-color: #420E06;
+    border-color: #5bc2c2;
+    font-size: small;
+}
+
+/* #linkbtn {
+    align-items: flex-end;
+} */
+
+
+.footer{
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-evenly;
+    background-color: palegoldenrod;
     position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: palegoldenrod;
-    color: darkred;
-    text-align: center;
-    font-family: 'Verdana';
-    font-size: 18px;
-}
+    }
