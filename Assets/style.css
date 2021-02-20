@@ -23,8 +23,22 @@ body  {
     align-items: flex-end;
     justify-content: space-evenly;
     background-color: palegoldenrod;
-    position: fixed;
+    position: sticky;
+    text-align: center;
     left: 0;
     bottom: 0;
     width: 100%;
-    }
+}
+
+.footercontact{
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-evenly;
+    background-color: palegoldenrod;
+    position: fixed;
+    text-align: center;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
